@@ -1,4 +1,6 @@
-﻿namespace Moongazing.GuidShorter;
+﻿using System;
+
+namespace Moongazing.GuidShorter;
 
 /// <summary>
 /// Represents a shorter version of a GUID, encoded as a 22-character Base64 string.
