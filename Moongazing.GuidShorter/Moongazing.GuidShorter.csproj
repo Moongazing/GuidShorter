@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Moongazing</Authors>
     <PackageId>GuidShorter</PackageId>
     <Description>A library to generate shorter and user-friendly GUIDs.</Description>
